@@ -146,9 +146,13 @@ This project is for educational purposes.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Developed as an industrial automation simulation project using Factory I/O and Siemens PLC systems.  
+Sana'a University Students:
+
+Fares Hilal Ahmed Haider (Mechatronics Enginner) A.NO 202270029
+Luay Ahmed Yahya Zayed (Mechatronics Enginner) A.NO 202270398 
+Ayman Mrwan Mohammed Al-Reazqee (Mechatronics Enginner) A.NO 202270324
 
 ---
 

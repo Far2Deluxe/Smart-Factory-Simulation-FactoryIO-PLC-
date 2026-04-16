@@ -150,9 +150,9 @@ This project is for educational purposes.
 
 Sana'a University Students:
 
-- Fares Hilal Ahmed Haider (Mechatronics Enginner) A.NO 202270029
-- Luay Ahmed Yahya Zayed (Mechatronics Enginner) A.NO 202270398 
-- Ayman Mrwan Mohammed Al-Reazqee (Mechatronics Enginner) A.NO 202270324
+- Fares Hilal Ahmed Haider (Mechatronics Engineering Student) A.NO 202270029
+- Luay Ahmed Yahya Zayed (Mechatronics Engineering Student) A.NO 202270398 
+- Ayman Mrwan Mohammed Al-Reazqee (Mechatronics Engineering Student) A.NO 202270324
 
 ---
 
